@@ -7,7 +7,7 @@ Eat-n-Split is a fun React app that lets you manage shared expenses between frie
 ## 📷 Preview
 ![Eat and Split Screenshot](./assets/Preview.png)
 
-## ✨ Features
+## ✨ Features 
 - Add friends to the list
 - Select a friend to split a bill
 - Adjust balances dynamically
