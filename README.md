@@ -1,4 +1,4 @@
-# 🍽️ Eat-n-Split
+# 🍽️ Eat-n-Split 
 Eat-n-Split is a fun React app that lets you manage shared expenses between friends. Add friends, select who you're splitting the bill with, and track how much everyone owes or is owed.
 
 ⚠️ Note: The CSS styling used in this project is not custom-made; it's part of the course I’m following. Profile pictures are randomly fetched from https://i.pravatar.cc and used for learning purposes only.
